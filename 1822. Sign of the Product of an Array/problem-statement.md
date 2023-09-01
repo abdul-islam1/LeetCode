@@ -27,4 +27,3 @@ Constraints:
 
 1 <= nums.length <= 1000
 -100 <= nums[i] <= 100
-s
